@@ -1,7 +1,5 @@
-import pandas as pd
 import quandl as qd
 import matplotlib.pyplot as matplt
-import numpy as np
 
 qd.ApiConfig.api_key = 'D7NyVWy1fazEisAuyhHX'
 
